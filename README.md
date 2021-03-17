@@ -10,10 +10,11 @@ Put autopfp.py into a folder with images
 
 Run autopfp.py
   Tell the program how many images you have.
-  Input your steam[login secure](https://user-images.githubusercontent.com/70382582/109490907-ff53ae00-7adc-11eb-9ca9-43083f2956d8.png)
+  Input your steam [login secure](https://user-images.githubusercontent.com/70382582/109490907-ff53ae00-7adc-11eb-9ca9-43083f2956d8.png)
+
   Input your steam id64
 
-Profit?
+  Profit?
 
 
 if it doesn't work that's really unfortunate and i care a lot.
